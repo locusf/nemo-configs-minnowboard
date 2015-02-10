@@ -32,8 +32,7 @@ Group:      Configs
 %package wayland
 Summary:    Wayland Configs for x86 vm adaptation
 Group:      Configs
-Requires:   nemo-configs-x86-vm-common
-Requires:   qt5-plugin-generic-vboxtouch
+Requires:   nemo-configs-minnowboard-common
 Conflicts:  nemo-configs-x86-vm-xorg
 
 %description wayland
